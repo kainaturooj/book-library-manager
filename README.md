@@ -1,6 +1,6 @@
 # Personal Library Manager
 
-A simple and interactive **Personal Library Manager** built with Python. This command-line application allows you to manage your personal book collection by adding, removing, searching, and displaying books. It also provides statistics about your reading progress.
+A simple and interactive **Personal Library Manager** built with **Python**. This **command-line application** allows you to manage your personal book collection by adding, removing, searching, and displaying books. It also provides statistics about your reading progress.
 
 ## Features
 
